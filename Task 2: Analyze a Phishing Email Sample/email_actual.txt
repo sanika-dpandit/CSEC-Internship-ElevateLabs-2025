@@ -1,0 +1,17 @@
+From: alert@amaz0n-support.com
+Subject: Your Amazon Account is Locked - Immediate Action Required
+
+Dear Customer,
+
+We noticed unusual activity in your Amazon account. For your protection, we have temporarily locked your account. 
+
+To unlock your account, please verify your identity by clicking the link below:
+
+🔗 https://amazon.verify-account-secure.com
+
+If you do not respond within 24 hours, your account will be permanently suspended.
+
+Thank you for being a valued customer,
+Amazon Support Team
+
+Attachment: Amazon_Verification_Form.docm

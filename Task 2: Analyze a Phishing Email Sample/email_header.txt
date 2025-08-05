@@ -1,0 +1,18 @@
+Return-Path: <alert@amaz0n-support.com>
+Received: from mail.fakehosting.ru (mail.fakehosting.ru. [185.244.25.92])
+        by smtp.gmail.com with ESMTPS id x7sm2993829plq.3.2025.05.27.10.44.23
+        for <you@example.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256);
+        Tue, 27 May 2025 10:44:23 -0700 (PDT)
+Received-SPF: fail (gmail.com: domain of alert@amaz0n-support.com does not designate 185.244.25.92 as permitted sender) client-ip=185.244.25.92;
+Authentication-Results: mx.google.com;
+       dkim=fail header.i=@amaz0n-support.com;
+       spf=fail (gmail.com: domain of alert@amaz0n-support.com does not designate 185.244.25.92 as permitted sender) smtp.mailfrom=alert@amaz0n-support.com;
+       dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=amaz0n-support.com
+Message-ID: <34123.3123.324123213@amaz0n-support.com>
+Subject: Your Amazon Account is Locked - Immediate Action Required
+From: Amazon Support <alert@amaz0n-support.com>
+To: <you@example.com>
+Date: Tue, 27 May 2025 10:44:21 -0700
+Content-Type: text/html; charset="UTF-8"
+MIME-Version: 1.0
