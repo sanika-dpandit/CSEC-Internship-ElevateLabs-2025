@@ -1,0 +1,41 @@
+## Task 6: Create and Evaluate Strong Passwords
+
+**Objective:**  
+Understand what makes a password strong by creating multiple variants and evaluating their strength using online tools. This task highlights the role of password complexity in defending against common attack methods.
+
+### Tools Used:
+- Free online password strength checkers like:
+  - [PasswordMeter](https://www.passwordmeter.com/)
+  - [Kaspersky Password Checker](https://password.kaspersky.com/)
+  - [NordPass Strength Checker](https://nordpass.com/password-strength-checker/)
+
+### What I Did:
+- Created a variety of passwords with different structures:
+  - Simple (e.g., `sunshine123`)
+  - Moderate (e.g., `MyDog2022!`)
+  - Strong (e.g., `T!g3r#W1nter_88`)
+- Tested each password using multiple online strength checkers.
+- Recorded:
+  - Strength scores
+  - Feedback from tools
+  - Suggestions for improvement
+- Researched how password characteristics affect vulnerability to brute-force and dictionary attacks.
+- Summarized key takeaways and password security tips.
+
+### Learning Outcomes:
+- Gained a practical understanding of what factors make passwords secure.
+- Identified patterns that result in weak vs. strong password scores.
+- Learned about password attack methods and how complexity helps prevent them.
+- Understood the value of **passphrases**, **length**, and **entropy**.
+- Explored the importance of **multi-factor authentication (MFA)** and **password managers**.
+
+### Key Concepts Covered:
+`Password Strength`, `Brute-force Attacks`, `Dictionary Attacks`, `Authentication`, `Passphrases`, `Best Practices`, `MFA`, `Password Managers`
+
+### Reflection Questions I Explored:
+- What’s the difference between a weak and a strong password?
+- Why does password length matter more than symbols alone?
+- What are the dangers of reusing passwords?
+- How do attackers attempt to crack passwords?
+- Are password managers safe and effective?
+
