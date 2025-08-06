@@ -49,9 +49,4 @@ Each task folder contains:
 - Scripts or tools used (where applicable)
 
 >  **Note:** All tasks were completed in a safe, controlled environment using only free/open-source tools. This internship focused on self-learning, ethical security practices, and hands-on experimentation.
-
-Thanks for visiting!
-
-
-
 Thanks for viewing!
