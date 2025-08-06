@@ -3,12 +3,6 @@
 
 Welcome to my Cyber Security Internship repository! This contains all the tasks completed during the internship, including a bonus Steganography project. Each folder includes the relevant documentation, screenshots, code, tools used, and insights gained.
 
-# 🛡️ Cyber Security Internship Projects — Elevate Labs 2025
-
-Welcome to my Cyber Security Internship repository! This contains all the tasks completed during the internship with Elevate Labs, including a bonus Steganography project. Each folder includes documentation, screenshots, code (if any), tools used, and a summary of learnings.
-
----
-
 ## Tasks Overview
 
 | Task | Title | Link |
@@ -23,7 +17,7 @@ Welcome to my Cyber Security Internship repository! This contains all the tasks 
 | Task 8 | Working and Understanding VPN | [View Repo](https://github.com/sanika-dpandit/CSEC-Internship-ElevateLabs-2025/tree/main/Task%208%20%3A%20Working%20and%20understanding%20VPN) |
 | Steganography Project | Hide and Reveal Messages in Images using Python | [View Repo](https://github.com/sanika-dpandit/Steganography-Project) |
 
-## 📌 Skills Gained
+## Skills Gained
 
 - Network scanning (Nmap)
 - Phishing detection and email header analysis
@@ -35,9 +29,7 @@ Welcome to my Cyber Security Internship repository! This contains all the tasks 
 - VPN privacy and encryption concepts
 - Image steganography using Python
 
----
-
-## 🚀 Tools Used
+## Tools Used
 
 - Nmap  
 - Wireshark  
@@ -48,9 +40,7 @@ Welcome to my Cyber Security Internship repository! This contains all the tasks 
 - Chrome / Firefox  
 - Python (for steganography)
 
----
-
-## 📂 Repository Structure
+## Repository Structure
 
 Each task folder contains:
 
@@ -58,43 +48,10 @@ Each task folder contains:
 - Screenshots / reports  
 - Scripts or tools used (where applicable)
 
----
-
-> 💡 **Note:** All tasks were completed in a safe, controlled environment using only free/open-source tools. This internship focused on self-learning, ethical security practices, and hands-on experimentation.
-
----
+>  **Note:** All tasks were completed in a safe, controlled environment using only free/open-source tools. This internship focused on self-learning, ethical security practices, and hands-on experimentation.
 
 Thanks for visiting!
 
 
-## Skills Gained
-
-- Port scanning and TCP/UDP understanding
-- Email threat analysis and phishing detection
-- Vulnerability scanning and CVSS scoring
-- Firewall configuration and port blocking
-- Packet sniffing and protocol analysis
-- Password strength and brute-force prevention
-- Browser extension security
-- Steganography (image-based data hiding)
-
-## Tools Used
-
-- Nmap
-- Wireshark
-- Nessus Essentials / OpenVAS
-- UFW / Windows Firewall
-- Python (for steganography)
-- Passwordmeter.com
-- Web browsers (Chrome/Firefox)
-
-## Repository Structure
-
-Each task has:
-- A `README.md` explaining steps taken
-- Screenshots or reports
-- Code/config files (if applicable)
-
-> **Note:** All tasks were performed on a local system or virtual environment. No paid tools were used. All reports and screenshots are original.
 
 Thanks for viewing!
