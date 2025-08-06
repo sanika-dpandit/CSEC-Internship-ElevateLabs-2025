@@ -31,9 +31,9 @@ Header Analysis
 
 | **Check**     | **Result**      | **Explanation**                                          |
 | ------------- | --------------- | -------------------------------------------------------- |
-| **SPF**       | ❌ Fail          | Sending IP not authorized to send emails for the domain. |
-| **DKIM**      | ❌ Fail          | Signature validation failed.                             |
-| **DMARC**     | ❌ Fail          | Policy not followed.                                     |
+| **SPF**       |  Fail          | Sending IP not authorized to send emails for the domain. |
+| **DKIM**      |  Fail          | Signature validation failed.                             |
+| **DMARC**     |  Fail          | Policy not followed.                                     |
 | **Origin IP** | `185.244.25.92` | Not associated with Amazon, possibly a known spam IP.    |
 
 Tools Used
