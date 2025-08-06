@@ -17,32 +17,30 @@ Analysis Performed
 
 Email Body Indicators
 
-| Indicator             | Description                                                            |
+| **Indicator**             | **Description**                                                        |
+| ------------------------- | ---------------------------------------------------------------------- |
+| **Spoofed Email Address** | Looks like a legit Amazon email but uses `amaz0n` instead of `amazon`. |
+| **Suspicious URL**        | URL mimics Amazon but redirects to an unknown domain.                  |
+| **Urgent Language**       | Creates panic: "Immediate Action Required", 24-hour deadline.          |
+| **Malicious Attachment**  | `.docm` file that can contain malware macros.                          |
+| **Generic Greeting**      | Uses "Dear Customer" instead of a real name.                           |
+| **Grammar & Tone**        | Slightly off, designed to trigger fear.                                |
 
-| Spoofed Email Address | Looks like a legit Amazon email but uses `amaz0n` instead of `amazon`. |
-| Suspicious URL        | URL mimics Amazon but redirects to an unknown domain.                  |
-| Urgent Language       | Creates panic: "Immediate Action Required", 24-hour deadline.          |
-| Malicious Attachment  | `.docm` file that can contain malware macros.                          |
-| Generic Greeting      | Uses "Dear Customer" instead of a real name.                           |
-| Grammar & Tone        | Slightly off, designed to trigger fear.                                |
 
 Header Analysis
 
-| Check     | Result          | Explanation                                              |
-
-| SPF       | ❌ Fail          | Sending IP not authorized to send emails for the domain. |
-| DKIM      | ❌ Fail          | Signature validation failed.                             |
-| DMARC     | ❌ Fail          | Policy not followed.                                     |
-| Origin IP | `185.244.25.92` | Not associated with Amazon, possibly a known spam IP.    |
-
-
+| **Check**     | **Result**      | **Explanation**                                          |
+| ------------- | --------------- | -------------------------------------------------------- |
+| **SPF**       | ❌ Fail          | Sending IP not authorized to send emails for the domain. |
+| **DKIM**      | ❌ Fail          | Signature validation failed.                             |
+| **DMARC**     | ❌ Fail          | Policy not followed.                                     |
+| **Origin IP** | `185.244.25.92` | Not associated with Amazon, possibly a known spam IP.    |
 
 Tools Used
 
 MxToolbox Email Header Analyzer
 Email client (for viewing full headers)
 Browser (for URL inspection via hover)
-
 
 Conclusion
 This email is a classic phishing attempt designed to steal user credentials or spread malware. The report documents:
