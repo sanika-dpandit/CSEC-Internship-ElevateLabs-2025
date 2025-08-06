@@ -15,7 +15,7 @@ Welcome to my Cyber Security Internship repository! This contains all the tasks 
 | Task 6 | Create a Strong Password and Evaluate Its Strength | [View Repo](https://github.com/sanika-dpandit/CSEC-Internship-ElevateLabs-2025/tree/main/Task%206%20%3A%20Create%20a%20Strong%20Password%20and%20Evaluate%20Its%20Strength) |
 | Task 7 | Identify and Remove Suspicious Browser Extensions | [View Repo](https://github.com/sanika-dpandit/CSEC-Internship-ElevateLabs-2025/tree/main/Task%207%20%3AIdentify%20and%20Remove%20Suspicious%20Browser%20Extensions) |
 | Task 8 | Working and Understanding VPN | [View Repo](https://github.com/sanika-dpandit/CSEC-Internship-ElevateLabs-2025/tree/main/Task%208%20%3A%20Working%20and%20understanding%20VPN) |
-| Steganography Project | Hide and Reveal Messages in Images using Python | [View Repo](https://github.com/sanika-dpandit/Steganography-Project) |
+| Steganography Project | Hide and Reveal Messages in Images using Python | [View Repo](https://github.com/sanika-dpandit/pastel-stego) |
 
 ## Skills Gained
 
